@@ -1,9 +1,9 @@
 # taller14
 
-```
-Verónica Luna
-Nahomi Cabrera
-```
+
+* Verónica Luna
+* Nahomi Cabrera
+
 
 ## Problema 01
 * Generar un programa que permita ingresar por teclado información que corresponde a
